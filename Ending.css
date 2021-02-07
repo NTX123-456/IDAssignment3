@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://somnomed.com/wp-content/uploads/2016/12/website-background-1.jpg")
+}
+.animation-center{  display: flex;
+    justify-content: center;
+    align-items: center;
+    /*height: 100vh;*/ /*if we only want this item to be smack center*/
+   }
+.loading-text{
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+  top: -50px;
+  position: relative;
+  font-style: italic;
+}

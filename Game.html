@@ -1,0 +1,87 @@
+<doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.79.0">
+    <title>Welcome to the Fun Math Quiz!</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/starter-template/">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="Game.css">
+
+    <!-- Bootstrap core CSS -->
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    
+  </head>
+  <body>
+    <div class="container">
+      <div id="game" class="justify-center flex-column">
+        <div id="hud">
+          <div id="hud-item">
+            <p id="progressText" class="hud-prefix">
+              
+            </p>
+           <h1 class="hud-main-text" id="questionCounter"></h1>
+          </div>
+          <div id="hud-item">
+            <p class="hud-prefix">
+              Score
+            </p>
+            <h1 class="hud-main-text" id="score">
+              0
+            </h1>
+          </div>
+        </div>
+        <h2 id="question">What is the answer to this questions?</h2>
+        <div class="choice-container">
+          <p class="choice-prefix">Option 1</p>
+          <p class="choice-text" data-number="1">Choice 1</p>
+        </div>
+        <div class="choice-container">
+          <p class="choice-prefix">Option 2</p>
+          <p class="choice-text" data-number="2">Choice 2</p>
+        </div>
+        <div class="choice-container">
+          <p class="choice-prefix">Option 3</p>
+          <p class="choice-text" data-number="3">Choice 3</p>
+        </div>
+        <div class="choice-container">
+          <p class="choice-prefix">Option 4</p>
+          <p class="choice-text" data-number="4">Choice 4</p>
+        </div>
+      </div>
+    </div>
+    <div class="animation-center">
+      <div style="display:block;">
+        <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_dlktovxd.json" speed="1" style="width: 1000px; height: 300px;"
+         loop autoplay>
+        </lottie-player>
+        <div class="loading-text">Good Luck, and try your best!<br/> (These questions are designed to be challenging)</div>
+    </div>
+    <script src="Game.js"></script>
+    <script src="Ending.js"></script>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+  </body>
+</html>

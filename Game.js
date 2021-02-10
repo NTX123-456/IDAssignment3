@@ -59,15 +59,15 @@ function getNewQuestion(){
         
     }
     questionTracker++;
-    questionCounterText.innerText = `Question ${questionTracker}/${MAX_QUESTIONS}`;
+    questionCounterText.innerHTML = `Question ${questionTracker}/${MAX_QUESTIONS}`;
     
     const questionIndex = Math.floor(Math.random() * availableQuestions.length);
     currentQuestion = availableQuestions[questionIndex];
-    question.innerText = currentQuestion.question;
+    question.innerHTML = currentQuestion.question;
 
     choices.forEach((choice) => {
         const number = choice.dataset['number'];
-        choice.innerText = currentQuestion['choice' + number];
+        choice.innerHTML = currentQuestion['choice' + number];
     });
 
     availableQuestions.splice(questionIndex, 1);

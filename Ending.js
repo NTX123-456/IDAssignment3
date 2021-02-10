@@ -48,7 +48,7 @@ $(document).ready(function () {
     $("#saveScoreBtn").on("click", function (e) {
         //prevent default action of the button 
         e.preventDefault();
-    
+        alert("Your highscore has been saved into the database");
         //[STEP 2]: let's retrieve form data
         //for now we assume all information is valid
         //you are to do your own data validation

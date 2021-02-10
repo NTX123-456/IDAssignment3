@@ -116,18 +116,18 @@ function wrongalert() {
     alert("Good job. That is the correct answer");
 }
 function checkforscore(){
-    if (countscore === 100){
+    if (score === 100){
         alert("Superb Job!, you have answered all the answers correctly!");
     }
-    if(countscore >= 70 && countscore > 50 ){
+    if(score <= 70 && score > 50 ){
         alert("Not bad!, you man managed answer some of the questions correctly");
     }
       
-    if(countscore > 70 && countscore < 100){
+    if(score > 70 && score < 100){
        
      alert("Well done!, you man managed answer majority of the questions correctly");
     }
-    else{
+    if (score <= 50) {
         alert("Try better next time!");
     }
     

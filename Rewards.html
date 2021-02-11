@@ -1,0 +1,113 @@
+<doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.79.0">
+    <title>Welcome to the rewards page!</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/pricing/">
+
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="Rewards.css" rel="stylesheet">
+  </head>
+  <body>
+    
+<header class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
+  <p class="h5 my-0 me-md-auto fw-normal">Rewards!</p>
+  <nav class="my-2 my-md-0 me-md-3">
+    <a class="p-2 text-dark" href="index.html">Go to homepage</a>
+    <a class="p-2 text-dark" href="HighScores.html">Go to highscores page</a>
+   </nav>
+  <a class="btn btn-outline-primary" href="#">Sign up</a>
+</header>
+
+<main class="container">
+  <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+    <h1 class="display-4">Come here to claim rewards for scoring well on the quiz!</h1>
+    <p class="lead">Here we award students for putting effort in scoring well for this quiz, and also to encourage students to learn</p>
+  </div>
+
+  <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+    <div class="col">
+      <div class="card mb-4 shadow-sm">
+      <div class="card-header">
+        <h4 class="my-0 fw-normal">For Highscores of 60 and above</h4>
+      </div>
+      <div class="card-body">
+        <h1 class="card-title pricing-card-title">3rd Prize <small class="text-muted"></small></h1>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>Free Vouchers to NTUC and Shopping malls</li>
+          <li>$5 worth of vouchers to choose from for each participant</li>
+        </ul>
+        <button id="third-prize" type="button" class="w-100 btn btn-lg btn-primary" onclick="click3stprize()">Click here to claim your award!</button>
+      </div>
+    </div>
+    </div>
+    <div class="col">
+      <div class="card mb-4 shadow-sm">
+      <div class="card-header">
+        <h4 class="my-0 fw-normal">For Highscores of 80 and above</h4>
+      </div>
+      <div class="card-body">
+        <h1 class="card-title pricing-card-title">2nd Prize<small class="text-muted"></small></h1>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>Free Vouchers to NTUC and Shopping malls</li>
+          <li>$10 worth of vouchers to choose from for each participant</li>
+          <li>A free stationary set</li>
+        </ul>
+        <button id="second-prize" type="button" class="w-100 btn btn-lg btn-primary" onclick="click2stprize()">Click here to claim your award!</button>
+      </div>
+    </div>
+    </div>
+    <div class="col">
+      <div class="card mb-4 shadow-sm">
+      <div class="card-header">
+        <h4 class="my-0 fw-normal">For Students who have scored full marks</h4>
+      </div>
+      <div class="card-body">
+        <h1 class="card-title pricing-card-title">Grand Prize<small class="text-muted"></small></h1>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>Free Vouchers to NTUC and Shopping malls</li>
+          <li>$15 worth of vouchers to choose from for each participant</li>
+          <li>2 Free tickets to any movie of your choice</li>
+        </ul>
+        <button id="grand-prize" type="button" class="w-100 btn btn-lg btn-primary" onclick="clickgrandprize()">Click here to claim your award!</button>
+      </div>
+    </div>
+    </div>
+  </div>
+
+
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+  <h6>Please take note that one participant can only claim one award once</h6>
+    
+  </footer>
+</main>
+<script src="Rewards.js"></script>
+</body>
+</html>

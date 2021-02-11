@@ -89,7 +89,6 @@ choices.forEach((choice) => {
         }
         else{
             wrongalert();
-            alert("The correct option is, Option: " + currentQuestion.answer);
         }
         selectedChoice.parentElement.classList.add(checkforcorrect);
         setTimeout(() => {
@@ -110,7 +109,7 @@ incrementScore = (num) => {
     scoreText.innerText = score;
 };
 function wrongalert() {
-    alert("That is the wrong answer");
+   alert("That is the wrong answer, the correct option is: " + currentQuestion.answer);
 }
   function rightalert() {
     alert("Good job. That is the correct answer");

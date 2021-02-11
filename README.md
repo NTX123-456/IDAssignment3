@@ -12,3 +12,17 @@
 <li> Rewards page: https://ntx123-456.github.io/NTX123-456.github.io-IDAssignment3/Rewards.html </li>
 <li> UserInfo page: https://ntx123-456.github.io/NTX123-456.github.io-IDAssignment3/UserInfo.html </li>
 
+<h2>Features of this website:</h2>
+<li>The first feature of this website is a challenging math quiz implemented to test students on their math knowledge</li>
+<li>The Second feature of this website is the display of correct answers if the students get a particular question wrong</li>
+<li>The third feature of this website is a highscore system that scores user's highscores into a database and displays it in a highscore page to allow students to save and see their own highscores</li>
+<li>The Fourth feature of this website is a rewarding system to reward students who score well for the quiz with some small rewards like vouchers and movie tickets</li>
+<li>The last feature is a form system that allows uers to input their details each time they claim a reward to ensure that their username is recorded each time they claim a reward</li>
+
+<h2>Design Process:</h2>
+We wanted to design something simple yet fun for users to try out, and we decided to do a quiz as we feel it is a easier concept to work on and expannd on, we also found it easier to implement some gamification features such as the highscore system and the rewards page system to encourage more students to take part in the quiz as well
+
+<h2>Test Cases </h2>
+
+
+<h1>Credits</h1>

@@ -20,9 +20,31 @@
 <li>The last feature is a form system that allows uers to input their details each time they claim a reward to ensure that their username is recorded each time they claim a reward</li>
 
 <h2>Design Process:</h2>
-We wanted to design something simple yet fun for users to try out, and we decided to do a quiz as we feel it is a easier concept to work on and expannd on, we also found it easier to implement some gamification features such as the highscore system and the rewards page system to encourage more students to take part in the quiz as well
+We wanted to design something simple yet fun for users to try out, and we decided to do a quiz as we feel it is a easier concept to work on and expannd on, we also found it easier to implement some gamification features such as the highscore system and the rewards page system to encourage more students to take part in the quiz as well. This quiz takes a api from a website and loads the questions from the api into the quiz.
 
 <h2>Test Cases </h2>
 
 
 <h1>Credits</h1>
+Bootstrap: https://getbootstrap.com/
+<h3>Bootstrap examples used:</h3>
+<li>Pricing template: https://getbootstrap.com/docs/4.0/examples/pricing/ </li>
+<li>Starter template: https://getbootstrap.com/docs/4.0/examples/starter-template/ </li>
+
+Api used for quiz questions:
+<li>'https://opentdb.com/api.php?amount=10&category=19&difficulty=hard&type=multiple'</li>
+Website for open quiz api:
+<li> https://opentdb.com/ </li>
+
+<h2>How to request for api</h2>
+<li>1. Find the most suitable api that you want to use for your website/application</li>
+<li>2. Test your api on postman to see whether it works or not, if it does not work, find another suitable api to use</li>
+<li>3. There are many ways to request for an api, the way which we used for this assignment is using the fetch method, which is very commonly used for fetching api.</li>
+
+<h3>Technologies used:</h3>
+<li>Jquery</li>
+<li>JavaScript</li>
+<li>Html</li>
+<li>Bootstrap</li>
+<li>CSS</li>
+<li>Fetch</li>

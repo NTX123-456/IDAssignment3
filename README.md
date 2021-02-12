@@ -51,3 +51,7 @@ Website for open quiz api:
 <li>Bootstrap</li>
 <li>CSS</li>
 <li>Fetch</li>
+
+<h3>Outside/external codes referenced</h3>
+
+

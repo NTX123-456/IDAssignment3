@@ -24,6 +24,9 @@ We wanted to design something simple yet fun for users to try out, and we decide
 
 <h2>Test Cases </h2>
 
+<h2>Deployment Process:</h2>
+Before we fully deployed this website into github pages, we tested this many times in our local files and also testing it in repl.it to make sure it is able to access the databases created to store the highscores and store the user input information before safely publishing our website on github after making the appropriate changes. For the website hosted on Github pages and the website that is hosted locally, the differences are the links to the various bootstrap CSS and Js core codes. For the locally hosted website a more specific link will be used to access the css and js core codes.
+
 
 <h1>Credits</h1>
 Bootstrap: https://getbootstrap.com/

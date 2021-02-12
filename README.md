@@ -37,9 +37,9 @@ Website for open quiz api:
 <li> https://opentdb.com/ </li>
 
 <h2>How to request for api</h2>
-<li>1. Find the most suitable api that you want to use for your website/application</li>
-<li>2. Test your api on postman to see whether it works or not, if it does not work, find another suitable api to use</li>
-<li>3. There are many ways to request for an api, the way which we used for this assignment is using the fetch method, which is very commonly used for fetching api.</li>
+<li>1.Find the most suitable api that you want to use for your website/application</li>
+<li>2.Test your api on postman to see whether it works or not, if it does not work, find another suitable api to use</li>
+<li>3.There are many ways to request for an api, the way which we used for this assignment is using the fetch method, which is very commonly used for fetching api.</li>
 
 <h3>Technologies used:</h3>
 <li>Jquery</li>

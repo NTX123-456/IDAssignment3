@@ -19,6 +19,9 @@
 <li>The Fourth feature of this website is a rewarding system to reward students who score well for the quiz with some small rewards like vouchers and movie tickets</li>
 <li>The last feature is a form system that allows uers to input their details each time they claim a reward to ensure that their username is recorded each time they claim a reward</li>
 
+<h1>Watch our demonstration/pitch video for our website here </h1>
+<li>Pitch link: https://drive.google.com/file/d/1TbInhdDaeJJUJr1jHD2-SmtbuBP0EQxw/view?usp=sharing</li>
+
 <h2>Design Process:</h2>
 We wanted to design something simple yet fun for users to try out, and we decided to do a quiz as we feel it is a easier concept to work on and expannd on, we also found it easier to implement some gamification features such as the highscore system and the rewards page system to encourage more students to take part in the quiz as well. This quiz takes a api from a website and loads the questions from the api into the quiz.
 

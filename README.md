@@ -28,7 +28,7 @@
 <h2>Test Cases: </h2>
 
 Test | Test step | Expected Result | Actual Result | Pass/Fail |
--------------- | -------------- | -------------- | -------------- | -------------- |
+------------- | ------------- | ------------- | ------------- | ------------- |
 Test if there are no errors in CSS and HTML codes | Copy and Paste page url into CSS and HTML validators respectively and fix all errors observed | Minor errors are observed but are easy to fix | A few errors popped up and were fixed without problem |Pass|Test if Quiz questions are able to load into the html document and display the questions correctly |Load the api into postman and check if the questions are loaded properly and run the quiz to see if questions are displayed correctly |All Questions are able to be displayed correctly and clearly|All questions are displayed correctly|Pass|
 
 <h2>Deployment Process:</h2>

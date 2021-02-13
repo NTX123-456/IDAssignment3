@@ -1,4 +1,4 @@
-<doctype html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -7,14 +7,11 @@
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.79.0">
     <title>Welcome to the Fun Math Quiz!</title>
-
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/starter-template/">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="Game.css">
-
     <!-- Bootstrap core CSS -->
-
     <style>
       .bd-placeholder-img {
         font-size: 1.125rem;
@@ -30,22 +27,19 @@
         }
       }
     </style>
-
-    
-    <!-- Custom styles for this template -->
-    
+<!-- Custom styles for this template -->
   </head>
   <body>
     <div class="container">
       <div id="game" class="justify-center flex-column">
         <div id="hud">
-          <div id="hud-item">
+          <div id="hud-item1">
             <p id="progressText" class="hud-prefix">
               
             </p>
            <h1 class="hud-main-text" id="questionCounter"></h1>
           </div>
-          <div id="hud-item">
+          <div id="hud-item2">
             <p class="hud-prefix">
               Score
             </p>
@@ -80,6 +74,7 @@
         </lottie-player>
         <div class="loading-text">Good Luck, and try your best!<br/> (These questions are designed to be challenging)</div>
     </div>
+  </div>
     <script src="Game.js"></script>
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
   </body>

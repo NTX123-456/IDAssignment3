@@ -25,7 +25,8 @@
 <h2>Design Process:</h2>
 <p> We wanted to design something simple yet fun for users to try out, and we decided to do a quiz as we feel it is a easier concept to work on and expannd on, we also found it easier to implement some gamification features such as the highscore system and the rewards page system to encourage more students to take part in the quiz as well. This quiz takes a api from a website and loads the questions from the api into the quiz.</p>
 
-<h2>Test Cases </h2>
+<h2>Test Cases: </h2>
+
 Test | Test step | Expected Result | Actual Result | Pass/Fail |
 -------------- | -------------- | -------------- | -------------- | -------------- |
 Test if there are no errors in CSS and HTML codes | Copy and Paste page url into CSS and HTML validators respectively and fix all errors observed | Minor errors are observed but are easy to fix | A few errors popped up and were fixed without problem |Pass

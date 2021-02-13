@@ -25,11 +25,12 @@
 <h2>Design Process:</h2>
 <p> We wanted to design something simple yet fun for users to try out, and we decided to do a quiz as we feel it is a easier concept to work on and expannd on, we also found it easier to implement some gamification features such as the highscore system and the rewards page system to encourage more students to take part in the quiz as well. This quiz takes a api from a website and loads the questions from the api into the quiz.</p>
 
-<h2>Test Cases: </h2>
+<h2>Test Cases:</h2>
 
 Test | Test step | Expected Result | Actual Result | Pass/Fail |
 ------------- | ------------- | ------------- | ------------- | ------------- |
-Test if there are no errors in CSS and HTML codes | Copy and Paste page url into CSS and HTML validators respectively and fix all errors observed | Minor errors are observed but are easy to fix | A few errors popped up and were fixed without problem |Pass|Test if Quiz questions are able to load into the html document and display the questions correctly |Load the api into postman and check if the questions are loaded properly and run the quiz to see if questions are displayed correctly |All Questions are able to be displayed correctly and clearly|All questions are displayed correctly|Pass|
+Test if there are no errors in CSS and HTML codes | Copy and Paste page url into CSS and HTML validators respectively and fix all errors observed | Minor errors are observed but are easy to fix | A few errors popped up and were fixed without problem |Pass|
+Test if Quiz questions are able to load into the html document and display the questions correctly | Load the api into postman and check if the questions are loaded properly and run the quiz to see if questions are displayed correctly | All Questions are able to be displayed correctly and clearly|All questions are displayed correctly|Pass|
 
 <h2>Deployment Process:</h2>
 Before we fully deployed this website into github pages, we tested this many times in our local files and also testing it in repl.it to make sure it is able to access the databases created to store the highscores and store the user input information before safely publishing our website on github after making the appropriate changes. For the website hosted on Github pages and the website that is hosted locally, the differences are the links to the various bootstrap CSS and Js core codes. For the locally hosted website a more specific link will be used to access the css and js core codes.

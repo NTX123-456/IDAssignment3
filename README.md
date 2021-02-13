@@ -27,7 +27,7 @@
 
 <h2>Test Cases </h2>
 Test | Test step | Expected Result | Actual Result | Pass/Fail |
---------------|--------------|--------------|--------------|--------------|
+-------------- | -------------- | -------------- | -------------- | -------------- |
 Test if there are no errors in CSS and HTML codes | Copy and Paste page url into CSS and HTML validators respectively and fix all errors observed | Minor errors are observed but are easy to fix | A few errors popped up and were fixed without problem |Pass
 A few errors popped up and were fixed without problem
 

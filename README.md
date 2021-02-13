@@ -29,8 +29,8 @@
 
 Test | Test step | Expected Result | Actual Result | Pass/Fail |
 -------------- | -------------- | -------------- | -------------- | -------------- |
-Test if there are no errors in CSS and HTML codes | Copy and Paste page url into CSS and HTML validators respectively and fix all errors observed | Minor errors are observed but are easy to fix | A few errors popped up and were fixed without problem |Pass
-A few errors popped up and were fixed without problem
+Test if there are no errors in CSS and HTML codes | Copy and Paste page url into CSS and HTML validators respectively and fix all errors observed | Minor errors are observed but are easy to fix | A few errors popped up and were fixed without problem |Pass 
+
 
 <h2>Deployment Process:</h2>
 Before we fully deployed this website into github pages, we tested this many times in our local files and also testing it in repl.it to make sure it is able to access the databases created to store the highscores and store the user input information before safely publishing our website on github after making the appropriate changes. For the website hosted on Github pages and the website that is hosted locally, the differences are the links to the various bootstrap CSS and Js core codes. For the locally hosted website a more specific link will be used to access the css and js core codes.

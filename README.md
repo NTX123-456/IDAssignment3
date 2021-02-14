@@ -76,7 +76,7 @@ Website for open quiz api:
 <li>5 .For testing purposes : repl.it </li>
 
 <h3>Outside/external codes referenced</h3>
-<li> How Making a quiz app tutorial done by James Q Quick
+<li> How Make a quiz app tutorial done by James Q Quick
 Link to tutorial on youtube, all credit goes to James Q Quick: https://www.youtube.com/watch?v=u98ROZjBWy8&list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx </li>
 
 

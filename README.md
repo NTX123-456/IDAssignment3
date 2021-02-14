@@ -73,7 +73,10 @@ Website for open quiz api:
 <li>2. Postman </li>
 <li>3. Youtube </li>
 <li>4. Stack Overflow </li>
+<li>5 .For testing purposes : repl.it </li>
 
 <h3>Outside/external codes referenced</h3>
+<li> How Making a quiz app tutorial done by James Q Quick
+Link to tutorial on youtube, all credit goes to James Q Quick: https://www.youtube.com/watch?v=u98ROZjBWy8&list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx </li>
 
 

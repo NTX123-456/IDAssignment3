@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).ready(function () { "use strict";
     const APIKEY = "6024016e5ad3610fb5bb5e6c";
     getUserInfo();
     $("#information-submit").on("click", function (e) {

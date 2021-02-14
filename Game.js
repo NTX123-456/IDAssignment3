@@ -1,5 +1,5 @@
 const question = document.getElementById('question');
-const choices = Array.from(document.getElementsByClassName('choice-text'));
+const choices = Array.from(document.getElementsByClassName('word'));
 const progressText = document.getElementById('progressText');
 const scoreText = document.getElementById('score');
 const questionCounterText = document.getElementById('questionCounter');

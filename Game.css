@@ -14,13 +14,13 @@
   transition: transform 150ms;
 }
 
-.choice-prefix {
+.box {
   padding: 1.5rem 2.5rem;
   background-color: #56eb7b;
   color: white;
 }
 
-.choice-text {
+.word {
   padding: 0.5rem;
   width: 100%;
 }

@@ -75,6 +75,7 @@ Website for open quiz api:
 <li>3. Youtube </li>
 <li>4. Stack Overflow </li>
 <li>5 .For testing purposes : repl.it </li>
+<li> Where I get my lottie animations: https://lottiefiles.com/</li>
 
 <h3>Background Images Used</h3>
 <li>https://png.pngtree.com/thumb_back/fw800/background/20200604/pngtree-hand-drawn-education-math-background-image_337861.jpg</li>

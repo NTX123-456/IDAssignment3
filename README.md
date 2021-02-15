@@ -37,6 +37,8 @@ Check if online database is able to input and display user information for examp
 <h2>Deployment Process:</h2>
 Before we fully deployed this website into github pages, we tested this many times in our local files and also testing it in repl.it to make sure it is able to access the databases created to store the highscores and store the user input information before safely publishing our website on github after making the appropriate changes. For the website hosted on Github pages and the website that is hosted locally, the differences are the links to the various bootstrap CSS and Js core codes. For the locally hosted website a more specific link will be used to access the css and js core codes.
 
+<h2>Points to take note for users of this website </h2>
+<p> The Final Layout and the final version of this website will look slightly different that what was demonstrated in the pitch as we decided to make some small changes to the website, for example, adding a loading page with a lottie animation before starting the quiz and adding bootstrap layout to the quiz page. Hence the final version of the website, mainly the quiz and the loading page will be different from what is shown in the pitch.</p>
 
 <h1>Credits</h1>
 Bootstrap: https://getbootstrap.com/

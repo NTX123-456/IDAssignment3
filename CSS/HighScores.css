@@ -15,3 +15,19 @@
 body{
     background-image:url("http://i2.wp.com/phoenixheliparts.com/wp-content/uploads/2014/06/good-background.jpg?fit=848%2C1024")
 }
+*,html{font-family: Arial, Helvetica, sans-serif; font-size: 25px;}
+.bg-blue{background: #2B9349;}
+.animation-center{  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*height: 100vh;*/ /*if we only want this item to be smack center*/
+ }
+.loading-text{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    top: -50px;
+    position: relative;
+    font-style: oblique;
+}

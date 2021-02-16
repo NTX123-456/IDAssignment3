@@ -1,5 +1,7 @@
 # IDAssignment3 
 <h1>Webpage done by Ng Tung Xuan(S10205325)</h1>
+<p>Do take note that this assignment is considered an individual and not a pair assignment, as my partner has not put in any form of contribution at all.</p>
+
 <h2>Motive of this website:</h2>
 <p>To allow Students who are keen on increasing their knowledge on Mathematics, and allow them to have a chance to tackle some difficult questions. In the process students can also gain scores and use their scores to exchange for some rewards. The gamification concept implemented in this assignment is that students who score for well for the quiz can stand a chance to win attractive prizes using their highscores.</p>
 
@@ -94,6 +96,13 @@ Website for open quiz api:
 
 <h3>Outside/external codes referenced</h3>
 <li> How Make a quiz app tutorial done by James Q Quick
-Link to tutorial on youtube, all credit goes to James Q Quick: https://www.youtube.com/watch?v=u98ROZjBWy8&list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx </li>
+Link to tutorial on youtube, all credit for the tutorial goes to James Q Quick: https://www.youtube.com/watch?v=u98ROZjBWy8&list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx </li>
 
+<h3>Personal Contributions to this assignment</h3>
+<li>Pitch - Ng Tung Xuan</li>
+<li>Idea and design - Ng Tung Xuan</li>
+<li>Coding - Ng Tung Xuan </li>
+<li>Readme.md - Ng Tung Xuan </li>
+<li>Github commits - Ng Tung Xuan </li>
+<li>Debugging/fixing of errors - Ng Tung Xuan</li>
 

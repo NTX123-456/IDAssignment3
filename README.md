@@ -100,7 +100,7 @@ Link to tutorial on youtube, all credit for the tutorial goes to James Q Quick: 
 
 <h3>Personal Contributions to this assignment</h3>
 <li>Pitch - Ng Tung Xuan</li>
-<li>Idea and design - Ng Tung Xuan</li>
+<li>Idea and research - Ng Tung Xuan</li>
 <li>Coding - Ng Tung Xuan </li>
 <li>Readme.md - Ng Tung Xuan </li>
 <li>Github commits - Ng Tung Xuan </li>

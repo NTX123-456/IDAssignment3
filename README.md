@@ -21,7 +21,7 @@
 <li>The Fourth feature of this website is a rewarding system to reward students who score well for the quiz with some small rewards like vouchers and movie tickets</li>
 <li>The last feature is a form system that allows uers to input their details each time they claim a reward to ensure that their username is recorded each time they claim a reward</li>
 
-<h1>Watch my demonstration/pitch video for our website here </h1>
+<h1>Watch my demonstration/pitch video for my website here </h1>
 <li>Pitch link: https://drive.google.com/file/d/1TbInhdDaeJJUJr1jHD2-SmtbuBP0EQxw/view?usp=sharing</li>
 
 <h2>Design Process:</h2>
